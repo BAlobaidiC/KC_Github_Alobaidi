@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KC_Anwendung_Alobaidi", "KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi.csproj", "{1054992A-C6D6-4B03-94FF-C120669E478C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1054992A-C6D6-4B03-94FF-C120669E478C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1054992A-C6D6-4B03-94FF-C120669E478C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1054992A-C6D6-4B03-94FF-C120669E478C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1054992A-C6D6-4B03-94FF-C120669E478C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63519378-152D-475E-B6DB-34DEBDFA7FBF}
+	EndGlobalSection
+EndGlobal

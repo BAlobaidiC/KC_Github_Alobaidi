@@ -1,0 +1,15 @@
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\bin\Debug\net6.0\KC_Anwendung_Alobaidi.exe
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\bin\Debug\net6.0\KC_Anwendung_Alobaidi.deps.json
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\bin\Debug\net6.0\KC_Anwendung_Alobaidi.runtimeconfig.json
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\bin\Debug\net6.0\KC_Anwendung_Alobaidi.dll
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\bin\Debug\net6.0\KC_Anwendung_Alobaidi.pdb
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\obj\Debug\net6.0\KC_Anwendung_Alobaidi.csproj.AssemblyReference.cache
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\obj\Debug\net6.0\KC_Anwendung_Alobaidi.GeneratedMSBuildEditorConfig.editorconfig
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\obj\Debug\net6.0\KC_Anwendung_Alobaidi.AssemblyInfoInputs.cache
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\obj\Debug\net6.0\KC_Anwendung_Alobaidi.AssemblyInfo.cs
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\obj\Debug\net6.0\KC_Anwendung_Alobaidi.csproj.CoreCompileInputs.cache
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\obj\Debug\net6.0\KC_Anwendung_Alobaidi.dll
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\obj\Debug\net6.0\refint\KC_Anwendung_Alobaidi.dll
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\obj\Debug\net6.0\KC_Anwendung_Alobaidi.pdb
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\obj\Debug\net6.0\KC_Anwendung_Alobaidi.genruntimeconfig.cache
+D:\bilal\Documents\KC_Anwendung_Alobaidi\KC_Anwendung_Alobaidi\obj\Debug\net6.0\ref\KC_Anwendung_Alobaidi.dll

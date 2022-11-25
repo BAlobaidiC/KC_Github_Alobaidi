@@ -1,0 +1,14 @@
+Benutzer: Bilal Alobaidi
+Warum ist Python so berühmt?
+Antwortmöglichkeit 1: Pythons Syntax ähnelt der englischen Sprache, deshalb ist die Programmiersprache auch für Coding-Neulinge relativ einfach zu lernen
+Antwortmöglichkeit 2: Weil man damit Spiele programmieren kann
+Antwortmöglichkeit 3: Weil es gehypt ist
+Antwortmöglichkeit 4: Weil es sehr leicht ist
+Frage wurde richtig beantwortet
+-------
+Welche For-Schleife entspricht 
+Antwortmöglichkeit 1: forif 2 in range(2)
+Antwortmöglichkeit 2: for item in MyArray()
+Antwortmöglichkeit 3: for i in range()
+Antwortmöglichkeit 4: for i<4()
+Frage wurde richtig beantwortet
