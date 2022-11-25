@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\bilal\\Documents\\KC_Anwendung_Alobaidi\\KC_Anwendung_Alobaidi\\KC_Anwendung_Alobaidi.csproj",
+      "projectUniqueName": "C:\\Users\\bilal\\Documents\\GitHub\\KC_Github_Alobaidi\\KC_Anwendung_Alobaidi\\KC_Anwendung_Alobaidi\\KC_Anwendung_Alobaidi.csproj",
       "projectName": "KC_Anwendung_Alobaidi",
-      "projectPath": "D:\\bilal\\Documents\\KC_Anwendung_Alobaidi\\KC_Anwendung_Alobaidi\\KC_Anwendung_Alobaidi.csproj",
+      "projectPath": "C:\\Users\\bilal\\Documents\\GitHub\\KC_Github_Alobaidi\\KC_Anwendung_Alobaidi\\KC_Anwendung_Alobaidi\\KC_Anwendung_Alobaidi.csproj",
       "packagesPath": "C:\\Users\\bilal\\.nuget\\packages\\",
-      "outputPath": "D:\\bilal\\Documents\\KC_Anwendung_Alobaidi\\KC_Anwendung_Alobaidi\\obj\\",
+      "outputPath": "C:\\Users\\bilal\\Documents\\GitHub\\KC_Github_Alobaidi\\KC_Anwendung_Alobaidi\\KC_Anwendung_Alobaidi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bilal\\AppData\\Roaming\\NuGet\\NuGet.Config",

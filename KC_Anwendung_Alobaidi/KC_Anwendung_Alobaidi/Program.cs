@@ -29,7 +29,7 @@ else
 string Frage = "Welche For-Schleife entspricht ";
 string Antwort1 = "Antwortmöglichkeit 1: forif 2 in range(2)";
 string Antwort2 = "Antwortmöglichkeit 2: for item in MyArray()";
-string Antwort3 = "Antwortmöglichkeit 3: for i in range()";
+string Antwort3 = "Antwortmöglichkeit 3: for i in range(1, 7)";
 string Antwort4 = "Antwortmöglichkeit 4: for i<4()";
 
 Console.WriteLine(Frage);
